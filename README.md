@@ -1,1 +1,1 @@
-# .github
+# Evaldia - diabetes under control
